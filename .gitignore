@@ -8,3 +8,4 @@ cypress/screenshots/Regressivo.feature/Regressivo DPK -- Checkout boleto a prazo
 cypress/screenshots/Regressivo.feature/Regressivo DPK -- Checkout boleto a vista (failed).png
 cypress/screenshots/Regressivo.feature/Regressivo DPK -- Checkout Pix (failed).png
 cypress/screenshots/Regressivo.feature/Regressivo DPK -- Limpar carrinho (failed).png
+node_modules
